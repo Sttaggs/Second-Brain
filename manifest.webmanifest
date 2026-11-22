@@ -1,0 +1,10 @@
+{
+  "name": "Second Brain",
+  "short_name": "Second Brain",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101417",
+  "theme_color": "#151b20",
+  "description": "Offline-first daily planning and goal tracking",
+  "icons": []
+}
